@@ -376,6 +376,8 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 **🚀 ¡La plataforma está lista para usar!** 
 
-Inicia el servidor con `npm run dev` y accede a http://localhost:5173 para comenzar a explorar la plataforma de IA.#   H A C K A T O N  
- #   H A C K A T O N  
+Inicia el servidor con `npm run dev` y accede a http://localhost:5173 para comenzar a explorar la plataforma de IA.#   H A C K A T O N 
+ 
+ #   H A C K A T O N 
+ 
  
